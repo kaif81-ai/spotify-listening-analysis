@@ -14,6 +14,8 @@ A lightweight Python pipeline that parses Spotify Streaming History exports and 
 
 ## How to run
 > Requires Python 3.10+
+> ## Sample output
+![Sample output](Codeoutputterminal.png)
 
 1. Clone:
 ```bash
